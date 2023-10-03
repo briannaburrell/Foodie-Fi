@@ -70,7 +70,7 @@ Danny aims to utilize data for prescriptive analysis to steer future decisions f
 #### How many days on average does it take for a customer to an annual plan from the day they join Foodie-Fi?
 <img width="831" alt="Q9" src="https://github.com/briannaburrell/Foodie-Fi/assets/134978128/5d86366d-2d57-4259-8438-97e6402d8bab">
 
-<img width="1440" alt="Screenshot 2023-10-02 at 12 10 28 AM" src="https://github.com/briannaburrell/Foodie-Fi/assets/134978128/309c05f7-8d38-4904-a50f-b6eaee70b575">
+<img width="1321" alt="Screenshot 2023-10-02 at 12 10 28 AM" src="https://github.com/briannaburrell/Foodie-Fi/assets/134978128/c26ee3da-53f8-4662-921c-d32a3524a446">
 
 ## Question 10
 #### How many customers downgraded from a pro monthly to a basic monthly plan in 2020?
