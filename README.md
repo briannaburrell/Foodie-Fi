@@ -76,6 +76,7 @@ Danny aims to utilize data for prescriptive analysis to steer future decisions f
 #### How many customers downgraded from a pro monthly to a basic monthly plan in 2020?
 <img width="820" alt="Q10" src="https://github.com/briannaburrell/Foodie-Fi/assets/134978128/34f68225-0d29-420c-b16b-fa56afd1921b">
 
-<img width="1161" alt="Screenshot 2023-10-02 at 12 28 11 AM" src="https://github.com/briannaburrell/Foodie-Fi/assets/134978128/5bbd85c7-ccb6-411e-9914-81f32a7ab
+<img width="1161" alt="Screenshot 2023-10-02 at 12 28 11 AM" src="https://github.com/briannaburrell/Foodie-Fi/assets/134978128/93aac7da-206b-46be-9fff-9a94f9523f64">
+
 
 ## Summary
